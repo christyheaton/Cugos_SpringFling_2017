@@ -20,7 +20,7 @@ source activate geopandasenv  # OSX and Linux
 activate geopandasenv  # Windows.
 ```
 
-* In your Anaconda command line with the geopandasenv activated, type in:
+* In your Anaconda Prompt navigated to the Notebook directory, type in:
 
 ```bash
 jupyter notebook
