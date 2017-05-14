@@ -8,9 +8,7 @@
 
 ### Getting Started
 
-* If you are familiar with [GitHub](http://www.github.com), fork and clone [the repository](https://github.com/christyheaton/Cugos_SpringFling_2017).
-
-* If not, download the repository and unzip to a working directory.
+* If you are familiar with [GitHub](http://www.github.com), fork and clone [the repository](https://github.com/christyheaton/Cugos_SpringFling_2017). If not, download the repository and unzip to a working directory.
 
 * Install [Miniconda](https://conda.io/miniconda.html) for your operating system. Please choose the Python 2.x version of Miniconda as not all packages we'll be using are Python 3-compliant.
 
