@@ -4,9 +4,9 @@
 
 * All data from the [King County GIS Data Portal](http://www5.kingcounty.gov/gisdataportal/).
 
-* The Python portion of this tutorial is modified from this [Maptime Meetup workshop (Feb. 8, 2017)](https://www.meetup.com/MaptimeSEA/), which is adapted from materials prepared by [Emilio Mayorga](https://github.com/emiliom/) for the [University of Washington GeoHack week event](https://geohackweek.github.io), Nov 14-18, 2016. We'll be using [those materials ("Vector Data Processing using Python Tools")](https://geohackweek.github.io/vector/) directly in some cases, as is.
+* The Python portion of this tutorial is modified from this [Maptime Meetup workshop (Feb. 8, 2017)](https://www.meetup.com/MaptimeSEA/), which is adapted from materials prepared by [Emilio Mayorga](https://github.com/emiliom/) for the [University of Washington GeoHack week event](https://geohackweek.github.io), Nov 14-18, 2016. We'll be using some of [those materials ("Vector Data Processing using Python Tools")](https://geohackweek.github.io/vector/) directly in some cases, as is.
 
-* The R portion of this tutorial is modified from this [Maptime Meeting workshop (June 6, 2016)](http://maptimesea.github.io/2016/06/01/R.html) with help from David Fisher.
+* The R portion of this tutorial is modified from this [Maptime Meetup workshop (June 6, 2016)](http://maptimesea.github.io/2016/06/01/R.html) with help from David Fisher.
 
 ### Getting Started
 
