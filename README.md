@@ -8,7 +8,7 @@
 
 * The R portion of this tutorial is modified from this [Maptime Meetup workshop (June 6, 2016)](http://maptimesea.github.io/2016/06/01/R.html) with help from David Fisher.
 
-### Getting Started
+### Getting Started with the Python Portion
 
 * If you are familiar with [GitHub](http://www.github.com), fork and clone [the repository](https://github.com/christyheaton/Cugos_SpringFling_2017). If not, download the repository and unzip to a working directory.
 
@@ -29,3 +29,6 @@ jupyter notebook
 ```
 
 * Click on SpringFling.ipynb and off we go!
+
+
+### Getting Started with the R Portion
