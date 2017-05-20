@@ -1,5 +1,7 @@
 ## A simple GIS workflow with Python and R - Cugos Spring Fling 2017
 
+[Slides](https://docs.google.com/a/uw.edu/presentation/d/1QeJI8liZk6cEUa12lkAdPNz8ncsP9N9FuKCWd83qIXU/edit?usp=sharing)
+
 ### Sources
 
 * All data from the [King County GIS Data Portal](http://www5.kingcounty.gov/gisdataportal/).
