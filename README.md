@@ -8,9 +8,11 @@
 
 * The R portion of this tutorial is modified from this [Maptime Meetup workshop (June 6, 2016)](http://maptimesea.github.io/2016/06/01/R.html) with help from David Fisher.
 
-### Getting Started with the Python Portion
+### Getting Started
 
 * If you are familiar with [GitHub](http://www.github.com), fork and clone [the repository](https://github.com/christyheaton/Cugos_SpringFling_2017). If not, download the repository and unzip to a working directory.
+
+### Getting Started with the Python Portion
 
 * Install [Miniconda](https://conda.io/miniconda.html) for your operating system. Please choose the Python 2.x version of Miniconda as not all packages we'll be using are Python 3-compliant.
 
@@ -32,3 +34,7 @@ jupyter notebook
 
 
 ### Getting Started with the R Portion
+
+* Download [R](https://cran.r-project.org/)
+* Download [R Studio](https://www.rstudio.com/products/rstudio/download2/)
+* In R Studio, open the R/vector_tutorial.r file that came in the repository and off we go!
