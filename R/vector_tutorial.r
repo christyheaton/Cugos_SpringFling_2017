@@ -1,13 +1,14 @@
 # If you have not already, install the raster and rgeos packages
-# install.packages(c("raster", "rgeos"))
+install.packages(c("rgdal", "raster", "rgeos"))
 
 # Bring these packages into your working environment
 library(raster)
 library(rgeos)
+library(rgdal)
 
 # Set your working directory to the master folder containing the data 
 # Download this here: https://github.com/christyheaton/Cugos_SpringFling_2017
-setwd("/home/dmf/tutorials/springfling/Cugos_SpringFling_2017-master/")
+setwd("C:\\Users\\chris\\Documents\\GitHub\\Cugos_SpringFling_2017")
 
 # Read in the transit routes and assign it to the variable "transit"
 transit <- shapefile("Data/routes.shp")
